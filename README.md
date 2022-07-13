@@ -5,7 +5,7 @@
 
 ### 使用方式 （ 特別是第三點，需注意 ）
 
-#### 1. 登入 howhow 的 [GetLineID](https://lineuid.howhow.tk) 網站。
+#### 1. 登入 howhow 的 [GetLineID](https://lineuid.how64bit.com) 網站。
 
 ![](https://i.imgur.com/nC3PkbE.png)
 
